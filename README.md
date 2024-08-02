@@ -1,2 +1,2 @@
 # Remote_DNS_Attack
-SeedLabs Remote DNS Attack
+This repository is a solution fir SeedLabs Remote DNS Attack
